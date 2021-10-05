@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Michelle1866
+- 👋 Hi, I’m @Michelle.
 - 👀 I’m interested in Python scripting.
 - 🌱 I’m currently learning Linux & Unix.
 - 💞️ I’m looking to collaborate on 3D Tool projects.
